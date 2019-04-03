@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var yo: UILabel!
+    @IBOutlet weak var yooo: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
